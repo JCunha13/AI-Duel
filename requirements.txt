@@ -1,0 +1,6 @@
+# Dependências do projeto
+# Pacotes necessários
+numpy
+matplotlib
+scikit-learn
+imblearn
